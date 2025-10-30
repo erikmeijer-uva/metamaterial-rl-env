@@ -30,3 +30,8 @@ Optional arguments:
 - **window_width**: width of the rendered image in pixels, default 1000
 - **window_height**: height of the rendered image in pixels, default 500
 - **render_text_lines**: list of strings to overlay on the rendered image, default []
+
+### Example
+
+![](https://github.com/erikmeijer-uva/metamaterial-rl-env/blob/main/examples/nonreciprocity.png?raw=true)
+An example for running an episode with a simple non-reciprocity policy can be found in `examples/nonreciprocity.py`.
